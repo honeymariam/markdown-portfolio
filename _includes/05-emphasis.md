@@ -1,3 +1,3 @@
 **Skills**<br>
-*HTML/CSS*
-_Maths 💹
+*HTML/CSS*<br>
+_Maths 💹_
